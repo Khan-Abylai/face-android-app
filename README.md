@@ -1,4 +1,4 @@
 # face detection mobile app on real time
 
 
-# ![alt text](screen.jpg)
+# <img src="screen.jpg" width="200">
