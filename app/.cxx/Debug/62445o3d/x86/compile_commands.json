@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/.cxx/Debug/62445o3d/x86",
+  "command": "/home/yeleussinova/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android24 --sysroot=/home/yeleussinova/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dface_det_mobapp_EXPORTS -isystem /home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/ncnn-20230816-android-vulkan/x86/include/ncnn -isystem /home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -fno-rtti -fno-exceptions -pthread -o CMakeFiles/face_det_mobapp.dir/face.cpp.o -c /home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/face.cpp",
+  "file": "/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/face.cpp"
+},
+{
+  "directory": "/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/.cxx/Debug/62445o3d/x86",
+  "command": "/home/yeleussinova/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android24 --sysroot=/home/yeleussinova/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dface_det_mobapp_EXPORTS -isystem /home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/ncnn-20230816-android-vulkan/x86/include/ncnn -isystem /home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -fno-rtti -fno-exceptions -pthread -o CMakeFiles/face_det_mobapp.dir/ndkcamera.cpp.o -c /home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/ndkcamera.cpp",
+  "file": "/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/ndkcamera.cpp"
+},
+{
+  "directory": "/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/.cxx/Debug/62445o3d/x86",
+  "command": "/home/yeleussinova/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android24 --sysroot=/home/yeleussinova/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dface_det_mobapp_EXPORTS -isystem /home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/ncnn-20230816-android-vulkan/x86/include/ncnn -isystem /home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -fno-rtti -fno-exceptions -pthread -o CMakeFiles/face_det_mobapp.dir/native-lib.cpp.o -c /home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/native-lib.cpp"
+}
+]

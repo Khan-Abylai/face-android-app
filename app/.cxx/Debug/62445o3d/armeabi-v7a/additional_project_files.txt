@@ -1,0 +1,2 @@
+/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/face.h
+/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/ndkcamera.h

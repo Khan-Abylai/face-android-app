@@ -1,0 +1,13 @@
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/CMakeLists.txt
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/OpenCV-android-sdk/sdk/native/jni/OpenCVConfig-version.cmake
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/OpenCV-android-sdk/sdk/native/jni/OpenCVConfig.cmake
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/OpenCV-android-sdk/sdk/native/jni/abi-x86/OpenCVConfig.cmake
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/OpenCV-android-sdk/sdk/native/jni/abi-x86/OpenCVModules-release.cmake
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/OpenCV-android-sdk/sdk/native/jni/abi-x86/OpenCVModules.cmake
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/ncnn-20230816-android-vulkan/x86/lib/cmake/glslang/glslang-config-version.cmake
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/ncnn-20230816-android-vulkan/x86/lib/cmake/glslang/glslang-config.cmake
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/ncnn-20230816-android-vulkan/x86/lib/cmake/glslang/glslang-targets-release.cmake
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/ncnn-20230816-android-vulkan/x86/lib/cmake/glslang/glslang-targets.cmake
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/ncnn-20230816-android-vulkan/x86/lib/cmake/ncnn/ncnn-release.cmake
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/ncnn-20230816-android-vulkan/x86/lib/cmake/ncnn/ncnn.cmake
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/ncnn-20230816-android-vulkan/x86/lib/cmake/ncnn/ncnnConfig.cmake

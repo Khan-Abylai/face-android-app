@@ -1,0 +1,50 @@
+{
+  "buildFiles": [
+    "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/CMakeLists.txt",
+    "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/OpenCV-android-sdk/sdk/native/jni/OpenCVConfig-version.cmake",
+    "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/OpenCV-android-sdk/sdk/native/jni/OpenCVConfig.cmake",
+    "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/OpenCV-android-sdk/sdk/native/jni/abi-x86_64/OpenCVConfig.cmake",
+    "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/OpenCV-android-sdk/sdk/native/jni/abi-x86_64/OpenCVModules-release.cmake",
+    "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/OpenCV-android-sdk/sdk/native/jni/abi-x86_64/OpenCVModules.cmake",
+    "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/ncnn-20230816-android-vulkan/x86_64/lib/cmake/glslang/glslang-config-version.cmake",
+    "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/ncnn-20230816-android-vulkan/x86_64/lib/cmake/glslang/glslang-config.cmake",
+    "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/ncnn-20230816-android-vulkan/x86_64/lib/cmake/glslang/glslang-targets-release.cmake",
+    "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/ncnn-20230816-android-vulkan/x86_64/lib/cmake/glslang/glslang-targets.cmake",
+    "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/ncnn-20230816-android-vulkan/x86_64/lib/cmake/ncnn/ncnn-release.cmake",
+    "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/ncnn-20230816-android-vulkan/x86_64/lib/cmake/ncnn/ncnn.cmake",
+    "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/src/main/cpp/ncnn-20230816-android-vulkan/x86_64/lib/cmake/ncnn/ncnnConfig.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/yeleussinova/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/.cxx/Debug/62445o3d/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/yeleussinova/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/.cxx/Debug/62445o3d/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "face_det_mobapp::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "face_det_mobapp",
+      "output": "/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/build/intermediates/cxx/Debug/62445o3d/obj/x86_64/libface_det_mobapp.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/yeleussinova/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/yeleussinova/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

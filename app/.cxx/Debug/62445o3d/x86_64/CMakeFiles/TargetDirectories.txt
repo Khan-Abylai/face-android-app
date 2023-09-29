@@ -1,0 +1,3 @@
+/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/.cxx/Debug/62445o3d/x86_64/CMakeFiles/face_det_mobapp.dir
+/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/.cxx/Debug/62445o3d/x86_64/CMakeFiles/edit_cache.dir
+/home/yeleussinova/data_SSD/face_recognition/face_det_mobapp/app/.cxx/Debug/62445o3d/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/face.h
+/home/yeleussinova/data_SSD/face_recognition/face-android-app/app/src/main/cpp/ndkcamera.h
